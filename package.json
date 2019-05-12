@@ -1,0 +1,29 @@
+{
+  "name": "desktopapp",
+  "version": "0.0.1",
+  "description": "A desktop app for the offline analysis of the player's replays.",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaltieRL/DesktopApp.git"
+  },
+  "keywords": [
+    "calculated.gg",
+    "Rocket",
+    "League",
+    "SaltieRL"
+  ],
+  "author": "Ryan Monaghan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaltieRL/DesktopApp/issues"
+  },
+  "homepage": "https://github.com/SaltieRL/DesktopApp#readme",
+  "dependencies": {
+    "electron": "^5.0.1",
+    "request": "^2.88.0"
+  }
+}
